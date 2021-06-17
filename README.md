@@ -1,4 +1,5 @@
-### Hi there 👋
+<img alt="Coding"  width="100%"  src="https://i.ibb.co/Qd1H4Cx/banner.png" loading="lazy">
+<img alt="Coding"  width="100%"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" loading="lazy">
 
 <!--
 **nyurenkova/nyurenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyurenkova&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyurenkova&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=nyurenkova&style=flat-square&label=PROFILE+VIEWS)
+
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
